@@ -13,9 +13,9 @@ Quick facts:
 * PIRATE pool op, test and debug CC/ROGUE, etc.
 
 #### VOTE ADDR
-
+```
   RJEEZYnTHkWrNNaivfruqhVTXuXQSaGLDp
-
+```
 #### 2020/S04 Addr info
 
 ```
