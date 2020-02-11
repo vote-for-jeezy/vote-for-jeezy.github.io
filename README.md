@@ -38,6 +38,6 @@ Bitcoin: 1KA1obDMJ91KUyy8Fh4hf2E4A9Z4hhzRBM
 * Komodo [Discord #notarynodes @jeezy#3408](https://discord.gg/qj25rC8)
 * Keybase [jeezy KB](https://keybase.io/jeezy)
 
-#### Thank you for your consideration π
+#### Thank you for your consideration
 
-PGP: https://raw.githubusercontent.com/vote-for-jeezy/vote-for-jeezy.github.io/master/pgp.key
+[π](https://raw.githubusercontent.com/vote-for-jeezy/vote-for-jeezy.github.io/master/pgp.key)
